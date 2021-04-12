@@ -8,11 +8,11 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-  apiKey: "AIzaSyBwakKgDCpTPlRQo79mBnRltaykL9vkxFI",
-  authDomain: "michatprivadoangel.firebaseapp.com",
-  projectId: "michatprivadoangel",
-  storageBucket: "michatprivadoangel.appspot.com",
-  messagingSenderId: "430113754047",
-  appId: "1:430113754047:web:63e2429d6c179bbd6f2f0a",
-  measurementId: "G-3QHGD24GHX"
+  apiKey: "AIzaSyDjewSsZcawwxak4l-etujMQDluPlh8GJ8",
+    authDomain: "chatyomeli41.firebaseapp.com",
+    projectId: "chatyomeli41",
+    storageBucket: "chatyomeli41.appspot.com",
+    messagingSenderId: "598718395361",
+    appId: "1:598718395361:web:190f5b4e4e7698549118a0",
+    measurementId: "G-F0D2DY3HRQ"
 });
